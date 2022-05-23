@@ -2,6 +2,7 @@
 <h3 align="center">A capable and results-oriented .NET developer with experience in delivering high value, ensuring customer satisfaction.</h3>
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
