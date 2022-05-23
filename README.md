@@ -4,6 +4,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Um Novo Marco](https://medium.com/@itallorian/um-novo-marco-96c2f7ac23b?source=rss-9f17848287bd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
